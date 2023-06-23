@@ -4,6 +4,5 @@ In content-based filtering, movie attributes like title, overview, genres, cast,
 
 Collaborative filtering focuses on user behaviour and preferences. It recommends movies based on the reactions of similar users, assuming users with similar tastes will enjoy similar movies. It uses KNN algorithm to recommend movies.
 
-To create a more accurate recommendation system, a weighted hybrid model combines content-based and collaborative filtering results. The model assigns weights to the recommendations from each approach based on their performance and relevance. By integrating the strengths of both techniques, the weighted hybrid model aims to overcome limitations and provide diverse and accurate movie recommendations.
-
+A weighted hybrid model combines content-based and collaborative filtering results to create a more accurate recommendation system. The model assigns weights to the recommendations from each approach based on their performance and relevance. By integrating the strengths of both techniques, the weighted hybrid model aims to overcome limitations and provide diverse and accurate movie recommendations.
 
