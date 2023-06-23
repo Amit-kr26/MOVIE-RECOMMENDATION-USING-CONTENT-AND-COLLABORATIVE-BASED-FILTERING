@@ -1,5 +1,7 @@
 # MOVIE-RECOMMENDATION-USING-CONTENT-AND-COLLABORATIVE-BASED-FILTERING
 
+DATASET LINK- https://drive.google.com/drive/folders/1vuzfAfrsyPVuTYpFoz5DTIgyh0jNm3x-?usp=sharing
+
 In content-based filtering, movie attributes like title, overview, genres, cast, and crew are used to generate feature vectors. Cosine similarity is then applied to recommend movies with higher similarity scores to the ones a user has liked.
 
 Collaborative filtering focuses on user behaviour and preferences. It recommends movies based on the reactions of similar users, assuming users with similar tastes will enjoy similar movies. It uses KNN algorithm to recommend movies.
